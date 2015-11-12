@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: d0d28a574c3ab934fa9816b15d433220
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Novos frames de correr 3.0_0
+    21300002: Novos frames de correr 3.0_1
+    21300004: Novos frames de correr 3.0_2
+    21300006: Novos frames de correr 3.0_3
+    21300008: Novos frames de correr 3.0_4
+    21300010: Novos frames de correr 3.0_5
+    21300012: Novos frames de correr 3.0_6
+    21300014: Novos frames de correr 3.0_7
+    21300016: Novos frames de correr 3.0_8
+    21300018: Novos frames de correr 3.0_9
+    21300020: Novos frames de correr 3.0_10
+    21300022: Novos frames de correr 3.0_11
+    21300024: Novos frames de correr 3.0_12
+    21300026: Novos frames de correr 3.0_13
+    21300028: Novos frames de correr 3.0_14
+    21300030: Novos frames de correr 3.0_15
+    21300032: Novos frames de correr 3.0_16
+    21300034: Novos frames de correr 3.0_17
+    21300036: Novos frames de correr 3.0_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Novos frames de correr 3.0_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 215
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 217
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 219
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 217
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_4
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 214
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 213
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_6
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 213
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 114
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_8
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 114
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_9
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 116
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 118
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 122
+        width: 59
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_12
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 118
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 117
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 15
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 15
+        width: 64
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_16
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 14
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_17
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 18
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Novos frames de correr 3.0_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 18
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

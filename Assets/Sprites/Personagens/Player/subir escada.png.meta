@@ -1,0 +1,194 @@
+fileFormatVersion: 2
+guid: 23561ed4b8d837e44aa180b41c101c64
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: subir escada_0
+    21300002: subir escada_1
+    21300004: subir escada_2
+    21300006: subir escada_3
+    21300008: subir escada_4
+    21300010: subir escada_5
+    21300012: subir escada_6
+    21300014: subir escada_7
+    21300016: subir escada_8
+    21300018: subir escada_9
+    21300020: subir escada_10
+    21300022: subir escada_11
+    21300024: subir escada_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: subir escada_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 162
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 163
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 165
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_3
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 166
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 164
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 165
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 164
+        width: 44
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_7
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 65
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 66
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 66
+        width: 42
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_10
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 69
+        width: 45
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_11
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 68
+        width: 44
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: subir escada_12
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 68
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

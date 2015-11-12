@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 95605401c1ef31148b79ee7d2b4b3bfd
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Frames da novos de stand_0
+    21300002: Frames da novos de stand_1
+    21300004: Frames da novos de stand_2
+    21300006: Frames da novos de stand_3
+    21300008: Frames da novos de stand_4
+    21300010: Frames da novos de stand_5
+    21300012: Frames da novos de stand_6
+    21300014: Frames da novos de stand_7
+    21300016: Frames da novos de stand_8
+    21300018: Frames da novos de stand_9
+    21300020: Frames da novos de stand_10
+    21300022: Frames da novos de stand_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Frames da novos de stand_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 125
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frames da novos de stand_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 127
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frames da novos de stand_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 130
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frames da novos de stand_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 132
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frames da novos de stand_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 135
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frames da novos de stand_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 136
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frames da novos de stand_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 19
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frames da novos de stand_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 19
+        width: 59
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frames da novos de stand_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 21
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frames da novos de stand_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 22
+        width: 57
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frames da novos de stand_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 25
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frames da novos de stand_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 25
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
